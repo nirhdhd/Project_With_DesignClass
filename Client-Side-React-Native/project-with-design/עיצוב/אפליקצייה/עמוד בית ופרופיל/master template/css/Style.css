@@ -1,0 +1,214 @@
+﻿html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin:0;
+	padding:0;
+	border:0;
+	outline:0;
+	font-weight:inherit;
+	font-style:inherit;
+	font-size:100%;
+	vertical-align:baseline;
+}
+
+
+html
+{
+    height:100%; 
+    margin-bottom: 0px; 
+}
+
+body 
+{
+	text-align:right;
+    height:100%; 
+    margin-bottom: 0px;
+    font-family: Arial;
+	direction:rtl;
+	max-width: 375px;
+}
+
+section.home
+{
+	text-align: center;
+	background-image: url("../images/topleaves.png");
+	background-position: top;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+section.profile
+{
+	text-align: center;
+	background-image: url("../images/leaves1.png");
+	background-position: top;
+	background-repeat: no-repeat;
+	background-size: contain;
+	position: relative;
+}
+
+img.logotype
+{
+	padding-top: 150px;
+}
+
+img
+{
+	margin: 10px 13px;
+}
+img.racoon
+{
+	padding-bottom: 20px;
+}
+
+form
+{
+	position: relative;
+	text-align: center;
+}
+
+form img
+{
+	top: -20;
+	left: 75;
+	position: absolute;
+}
+
+form input
+{
+	height: 40px;
+	width: 212px;
+	background-color: #E4E4E4;
+	border-radius: 10px;
+	border: none;
+	padding-right: 20px;
+	margin: 10px 0px;
+	font-size: 18px;
+	font-family: 'Assistant', sans-serif;
+}
+
+a button
+{
+	background-color: #FE961B;
+	border: none;
+	border-radius: 10px;
+	height: 40px;
+	width: 116px;
+	font-family: 'Assistant', sans-serif;
+	font-size: 18px;
+	margin: 10px 0px;
+	box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.15);
+}
+
+img.man
+{
+	padding-top: 5px;
+}
+
+section.profile a
+{
+	display: inline-block;	
+	position: absolute;
+	top: 20px;
+	left: 10px;
+}
+
+section.profile h1
+{
+	font-size: 24px;
+	font-family: 'Assistant', sans-serif;
+	padding-bottom: 15px;
+}
+
+section.profile div.address
+{
+	text-align: right;
+	display: inline-block;
+    width: 314px;
+    height: 111px;
+    box-sizing: border-box;
+    padding: 30px;
+    border-radius: 10px;
+	box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.15);
+	margin-bottom: 10px;
+}
+
+section.profile div.address h2
+{
+	font-size: 18px;
+	font-family: 'Assistant', sans-serif;
+}
+
+div.box
+{
+	display: inline-block;
+	text-align: center;
+	vertical-align: top;
+}
+
+div.box img
+{
+	margin: 10px 6px 0px 6px;
+}
+
+section.profile div.boxes
+{
+	display: inline-block;
+    width: 314px;
+    height: 111px;
+    border-radius: 10px;
+	box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.15);
+	margin-top: 15px;
+}
+
+section.profile div.all
+{
+	display: inline-block;
+    width: 314px;
+    height: 257px;
+    border-radius: 10px;
+	box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.15);
+	position: relative;
+}
+
+section.profile div.all h3
+{
+	position: absolute;
+	top: 10;
+	right: 15;
+	font-size: 18px;
+	font-family: 'Assistant', sans-serif;
+}
+section.profile div.all h4
+{
+	position: absolute;
+	top: 10;
+	left: 15;
+	font-size: 18px;
+	font-family: 'Assistant', sans-serif;
+}
+section.profile div.all h5
+{
+	font-size: 24px;
+	font-family: 'Assistant', sans-serif;
+}
+
+section.profile div.all img
+{
+	padding-top: 25px;
+}
+
+
+
+
+
+
+
+
+
+

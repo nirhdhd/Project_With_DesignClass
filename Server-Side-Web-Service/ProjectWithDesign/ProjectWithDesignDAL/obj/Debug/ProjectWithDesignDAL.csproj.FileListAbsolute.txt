@@ -1,0 +1,7 @@
+C:\Users\Almog Bakhshi\Documents\Visual Studio 2017\Projects\PracticeCSharp\ProjectWithDesign\ProjectWithDesignDAL\bin\Debug\ProjectWithDesignDAL.dll.config
+C:\Users\Almog Bakhshi\Documents\Visual Studio 2017\Projects\PracticeCSharp\ProjectWithDesign\ProjectWithDesignDAL\bin\Debug\ProjectWithDesignDAL.dll
+C:\Users\Almog Bakhshi\Documents\Visual Studio 2017\Projects\PracticeCSharp\ProjectWithDesign\ProjectWithDesignDAL\bin\Debug\ProjectWithDesignDAL.pdb
+C:\Users\Almog Bakhshi\Documents\Visual Studio 2017\Projects\PracticeCSharp\ProjectWithDesign\ProjectWithDesignDAL\obj\Debug\ProjectWithDesignDAL.csproj.CoreCompileInputs.cache
+C:\Users\Almog Bakhshi\Documents\Visual Studio 2017\Projects\PracticeCSharp\ProjectWithDesign\ProjectWithDesignDAL\obj\Debug\ProjectWithDesignDAL.dll
+C:\Users\Almog Bakhshi\Documents\Visual Studio 2017\Projects\PracticeCSharp\ProjectWithDesign\ProjectWithDesignDAL\obj\Debug\ProjectWithDesignDAL.pdb
+C:\Users\Almog Bakhshi\Documents\Visual Studio 2017\Projects\PracticeCSharp\ProjectWithDesign\ProjectWithDesignDAL\obj\Debug\ProjectWithDesignDAL.csprojAssemblyReference.cache

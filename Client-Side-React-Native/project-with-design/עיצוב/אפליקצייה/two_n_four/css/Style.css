@@ -1,0 +1,235 @@
+﻿html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin:0;
+	padding:0;
+	border:0;
+	outline:0;
+	font-weight:inherit;
+	font-style:inherit;
+	font-size:100%;
+	vertical-align:baseline;
+}
+
+
+html
+{
+    height:100%; 
+    margin-bottom: 0px; 
+}
+
+body 
+{
+
+    text-align:right;
+    height:100%; 
+    margin-bottom: 0px;
+    font-family: 'Assistant', sans-serif;
+	direction:rtl;
+}
+
+
+
+.pagecontainer
+{    
+    margin:0px auto;
+    width:960px;
+    text-align:left;
+    position:relative;
+
+   
+}
+
+*
+{box-sizing: border-box;}
+
+
+
+section.two
+{
+	background-image: url(../images/Group18.png);
+	background-repeat: no-repeat;
+	top: 0;
+	height: 100vh;
+}
+
+section.two a.profile
+{
+	
+	display: inline-block;
+	top:40px;
+	left: 40px;
+	
+	
+}
+
+section.two h2
+{
+	font-size: 60px;
+	color: #828282;
+	font-weight: bold;
+	padding-top: 200px;
+	padding-bottom: 50px;
+	padding-right: 100px;
+}
+
+div.map
+{
+	text-align: center;
+	
+	
+}
+
+div.map iframe
+{
+	
+}
+
+div.map img
+{
+	
+	
+}
+
+div.one
+{
+	display: flex;
+}
+
+div.right
+{
+	flex: 1;
+	
+}
+
+div.right a
+{
+	display: inline-block;
+	width: 420px;
+	height: 100px;
+	margin-top: 80px;
+	margin-right: 90px;
+	font-size: 40px;
+	text-align: center;
+	padding-top: 20px;
+}
+
+div.right a.t
+{
+	display: inline-block;
+	background-color: #388253;
+	color: white;
+	text-decoration: none;
+	border-radius: 10px;
+	
+}
+
+
+div.right a.b
+{
+	display: inline-block;
+	background-color: #71BE63;
+	color: white;
+	text-decoration: none;
+	border-radius: 10px;
+}
+
+
+
+div.left
+{
+	flex: 1;
+	padding-top: 50px;
+	text-align: left;
+	padding-left: 90px;
+}
+
+section.four
+{
+	background-image: url(../images/Group18.png);
+	background-repeat: no-repeat;
+}
+
+section.four h2
+{
+	font-size: 60px;
+	color: #828282;
+	font-weight: bold;
+	padding-top: 200px;
+	padding-right: 100px;
+}
+
+section.four h3
+{
+	font-size: 45px;
+	color: #828282;
+	font-weight: bold;
+	padding-top: 20px;
+	padding-bottom: 50px;
+	padding-right: 100px;
+}
+
+section.four img.w
+{
+	padding-top: 50px;
+	padding-right: 320px;
+	
+}
+
+div.map img {
+    position: absolute;
+    top: 683px;
+	left: 200px;
+}
+
+section.two div.map img 
+{
+    position: absolute;
+    top: 603px;
+	left: 200px;
+}
+
+
+section.four a img 
+{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+
+section.two a img 
+{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

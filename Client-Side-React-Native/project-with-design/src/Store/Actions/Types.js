@@ -1,0 +1,11 @@
+export const CHANGE_USER_NAME = "CHANGE_USER_NAME";
+export const CHANGE_PASSWORD = "CHANGE_PASSWORD";
+export const OPEN_MODAL = "OPEN_MODAL";
+export const CLOSE_MODAL = "CLOSE_MODAL";
+export const EXIST_USER = "EXIST_USER";
+
+export const TRASH_CAN_DETAILS = "TRASH_CAN_DETAILS";
+export const DRIVER_DETAILS = "DRIVER_DETAILS";
+
+export const CHANGE_WISH_TRASH = "CHANGE_WISH_TRASH";
+export const FETCH_WISH_TRASH = "FETCH_WISH_TRASH";
